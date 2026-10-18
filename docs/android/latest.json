@@ -1,0 +1,17 @@
+{
+ "app": "NELplayer-android",
+ "schema": 1,
+ "versionCode": 1,
+ "versionName": "0.1.0",
+ "date": "2026-10-20",
+ "minSdk": 30,
+ "notes": [
+  "NELplayer 모바일 첫 버전이에요"
+ ],
+ "apk": {
+  "url": "https://github.com/Nelsuss/NELplayer-releases/releases/download/android-v0.1.0/NELplayer-0.1.0.apk",
+  "size": 33919670,
+  "sha256": "265feac5bcef05a7989aac0cc79d985065901b1d76508de1b07b1a23be188d5b"
+ },
+ "page": "https://github.com/Nelsuss/NELplayer-releases/releases/tag/android-v0.1.0"
+}
