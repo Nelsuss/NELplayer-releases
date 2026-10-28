@@ -1,17 +1,18 @@
 {
  "app": "NELplayer-android",
  "schema": 1,
- "versionCode": 1,
- "versionName": "0.1.0",
- "date": "2026-10-20",
+ "versionCode": 2,
+ "versionName": "0.2.0",
+ "date": "2026-10-28",
  "minSdk": 30,
  "notes": [
-  "NELplayer 모바일 첫 버전이에요"
+  "홈의 이어보기 카드를 길게 누르면 이어보기에서 지울 수 있어요. 본 위치는 그대로 남고, 다시 보면 이어보기에 다시 나와요",
+  "플레이어에 재생 모드 버튼이 생겼어요: 반복 끔 · 한 영상 반복 · 폴더 반복(마지막 영상 뒤 처음으로)"
  ],
  "apk": {
-  "url": "https://github.com/Nelsuss/NELplayer-releases/releases/download/android-v0.1.0/NELplayer-0.1.0.apk",
-  "size": 33919670,
-  "sha256": "265feac5bcef05a7989aac0cc79d985065901b1d76508de1b07b1a23be188d5b"
+  "url": "https://github.com/Nelsuss/NELplayer-releases/releases/download/android-v0.2.0/NELplayer-0.2.0.apk",
+  "size": 33919822,
+  "sha256": "62e4841f949f89ad8d733a617f0e3d6077625f3ff24db9ddc3b7aff3e15fe6dd"
  },
- "page": "https://github.com/Nelsuss/NELplayer-releases/releases/tag/android-v0.1.0"
+ "page": "https://github.com/Nelsuss/NELplayer-releases/releases/tag/android-v0.2.0"
 }
