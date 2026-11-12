@@ -1,18 +1,23 @@
 {
  "app": "NELplayer-android",
  "schema": 1,
- "versionCode": 2,
- "versionName": "0.2.0",
- "date": "2026-10-28",
+ "versionCode": 3,
+ "versionName": "0.2.1",
+ "date": "2026-11-12",
  "minSdk": 30,
  "notes": [
-  "홈의 이어보기 카드를 길게 누르면 이어보기에서 지울 수 있어요. 본 위치는 그대로 남고, 다시 보면 이어보기에 다시 나와요",
-  "플레이어에 재생 모드 버튼이 생겼어요: 반복 끔 · 한 영상 반복 · 폴더 반복(마지막 영상 뒤 처음으로)"
+  "설정 › 조작에서 OP/ED 건너뛰기 길이를 고를 수 있어요(80초 · 85초 · 90초)",
+  "폴더 반복일 때 마지막 영상에서 '다음'을 누르면 첫 영상으로 가요",
+  "한 영상 반복 중에는 다 본 영상이 이어보기에 다시 올라오지 않아요",
+  "이어보기 삭제 확인 창을 다른 확인 창과 같은 모양으로 맞췄어요",
+  "화면 낭독기(TalkBack)가 플레이어와 홈의 버튼 이름을 읽어 줘요",
+  "녹화 저장·글꼴 받기가 실패했을 때 흔적이 남던 문제를 고쳤어요",
+  "앱 크기가 약 1MB 줄었고, 쓰지 않는 권한 하나를 뺐어요"
  ],
  "apk": {
-  "url": "https://github.com/Nelsuss/NELplayer-releases/releases/download/android-v0.2.0/NELplayer-0.2.0.apk",
-  "size": 33919822,
-  "sha256": "62e4841f949f89ad8d733a617f0e3d6077625f3ff24db9ddc3b7aff3e15fe6dd"
+  "url": "https://github.com/Nelsuss/NELplayer-releases/releases/download/android-v0.2.1/NELplayer-0.2.1.apk",
+  "size": 32851130,
+  "sha256": "c603075e2133c91cc33f0ceabfbd02adc6f4320fe7d61c5a49d0ba74bb9a22c5"
  },
- "page": "https://github.com/Nelsuss/NELplayer-releases/releases/tag/android-v0.2.0"
+ "page": "https://github.com/Nelsuss/NELplayer-releases/releases/tag/android-v0.2.1"
 }
